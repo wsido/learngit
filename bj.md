@@ -214,3 +214,5 @@ Greating a new branch is quick and simple.
 解决冲突就是把Git合并失败的文件手动编辑为我们希望的内容，再提交。
 
 用`git log --graph`命令可以看到分支合并图。
+
+`git mv olefilename newfilename`:修改文件名。
